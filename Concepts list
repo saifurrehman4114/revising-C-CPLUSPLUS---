@@ -13,7 +13,10 @@ int main() {
     long double saif_8 = 8;
     printf(%d );
     
+    
     /*
+    
+    NULL value in a pointer var
     //escape sequences 
     // /n next line
     // /r return for enter button  /a alert beep from compiler /t Tab col or 7 char spaces /b Backspaceone char before
@@ -60,12 +63,14 @@ int main() {
      
      pointers operators *p++ *(p++)
      
+     & reference operator * deference get address and get value   
+     
      //OOP 
      
      Class template composes of properties and methods acess modifiers private ,protected, public for properties and methods 
      object instance of class
       
-      :: RESOLUTION operator THIS keyword and NEW keyword 
+      :: RESOLUTION operator THIS keyword and NEW keyword  (. Dot operator) with Arrow Operator (->) you can point to properties of class and functions   
       
       reference variable 
       
@@ -86,7 +91,10 @@ int main() {
      
      Operator overloading 
      overloading function and overiding functions 
+     Abstract Class and Interface
      exception Handling 
+     
+     try catch finally block and throw error 
      
     */
     
