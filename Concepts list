@@ -1,0 +1,95 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    //Integer Data type
+    int saif_8 = 8; //2 bytes
+    short saif_8 = 8;
+    long saif_8 = 8; //4bytes 
+    //real Data type
+    float saif_8 = 8;
+    double saif_8 = 8;
+    long double saif_8 = 8;
+    printf(%d );
+    
+    /*
+    //escape sequences 
+    // /n next line
+    // /r return for enter button  /a alert beep from compiler /t Tab col or 7 char spaces /b Backspaceone char before
+    
+    unary binary tertiary operators
+    
+    // logical operator 
+    AND OR NOT XOR odd 1's EXNOR even zeros or 1's
+    
+    relationals operators
+    + - / * ** % 
+    comparision operators 
+    > < >= <= != == 
+    
+    decisions 
+    
+     if else elseif switch 
+     
+     loops 
+     
+     for while do while 
+     
+     functions user defined or built in function  
+     -signature / prototype 
+     -definition 
+     - call function formal and acutual arguments and parameters 
+     
+     
+     arrays 
+     
+     - by value 
+     - by ref
+     
+     CONST keyword
+     
+     structure 
+     
+     union
+     
+     pointers 
+     
+     pointer type of the address u want to store and * of the pointer sign name of pointer
+     get address of variable "& operator"  and * to get value of the variable address store in pointer 
+     
+     pointers operators *p++ *(p++)
+     
+     //OOP 
+     
+     Class template composes of properties and methods acess modifiers private ,protected, public for properties and methods 
+     object instance of class
+      
+      :: RESOLUTION operator THIS keyword and NEW keyword 
+      
+      reference variable 
+      
+      static variable and static function 
+      
+     inline function virtual, pure virtual and friend function
+     
+     template STL
+     encapsulation Access modifiers
+     abstraction getter/setter
+     inhertance 
+     - Multiple  A class which derives from multiple base classes A,B -> c   
+     -multi-level :-) class who is base class of the child also has a base class e.g A->B->C 
+     
+     (Early stage) Static and (late stage) Dynamic Binding
+     
+     polymorphism many forms and function which implements it is called polymorphic function
+     
+     Operator overloading 
+     overloading function and overiding functions 
+     exception Handling 
+     
+    */
+    
+    
+    return 0;
+}
