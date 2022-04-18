@@ -6,30 +6,67 @@ int main() {
     //Integer Data type
     int saif_8 = 8; //2 bytes
     short saif_8 = 8;
+    
+    //declation 
+    int a,b,c ;
+    
+    //Intialization 
+    int a,b,c= 0;
     long saif_8 = 8; //4bytes 
     //real Data type
     float saif_8 = 8;
     double saif_8 = 8;
     long double saif_8 = 8;
     printf(%d );
-    
+     /* char data type and seq of chars string 
+     
+     boolean true false 
+     
     
     /*
+    
+    format specifiers 
+    
+    % d decimal 
+    %f float 
+    %c character
+    %s string 
+    %e exponent 
+    
+  
     
     NULL value in a pointer var
     //escape sequences 
     // /n next line
     // /r return for enter button  /a alert beep from compiler /t Tab col or 7 char spaces /b Backspaceone char before
     
-    unary binary tertiary operators
+    usage 
+    unary- one operand  binary 2 operand  tertiary operators 3 operand ? conditional operator 
     
-    // logical operator 
-    AND OR NOT XOR odd 1's EXNOR even zeros or 1's
+    work 
     
-    relationals operators
-    + - / * ** % 
-    comparision operators 
+    // logical operator  combine different experssions 
+    AND && OR || NOT ! XOR odd 1's EXNOR even zeros or 1's SHORT Circuiting
+    
+    relationals operators mathermatical exerisions    + - / * ** %   precedence and BODMAS OR PEMDAS Parentheses, Exponents, Multiplication and Division (from left to right)    
+    comparision operators comaprsion expersiiosn 
     > < >= <= != == 
+    
+    Assignment operator =
+    & address operator 
+    
+    increment and decrement operator ++ -- unary
+    
+    postfix and prefix
+    A= 5
+    ++A Pre, A++ post 
+    
+    compound operators
+    
+    A += 1
+    A -= 1
+    A /= 1
+    A *= 1
     
     decisions 
     
@@ -90,12 +127,14 @@ int main() {
      polymorphism many forms and function which implements it is called polymorphic function
      
      Operator overloading 
-     overloading function and overiding functions 
+     overloading function (name should be same,datatypes,sequece differs ) and overiding functions 
      Abstract Class and Interface
      exception Handling 
      
      try catch finally block and throw error 
      
+     
+     life time and visibility of Variables
     */
     
     
