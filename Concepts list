@@ -60,7 +60,7 @@ int main() {
     postfix and prefix
     A= 5
     ++A Pre, A++ post 
-    
+    c = ++a + b++
     break & continue statement
     compound operators
     
@@ -68,12 +68,20 @@ int main() {
     A -= 1
     A /= 1
     A *= 1
+    A %=1
+    
+    A += (A+5)
     
     decisions 
     
-     if else elseif switch 
+     if else elseif switch( diif cases check diff outpt input can be int or char case matches case value cahr or int if no break all cases would be excuted or untill break come sin and default value like else  ) decision tree read from right left  
+     zero false +veor -ve would be true
      
-     loops 
+     Nested If 
+     
+     conditional operator if (x>5) y=3 else x=5
+     (x>5 ? y =3 : x=5) just one if else multiple if else      
+     loops and nested loops 
      
      for while do while 
      
