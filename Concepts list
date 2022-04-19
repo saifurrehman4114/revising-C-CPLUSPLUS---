@@ -22,8 +22,17 @@ int main() {
      
      boolean true false 
      
-    
-    /*
+     string uses array char str[20];
+     char str[] = "saif";
+     cin>>setw(20)>>str; //will go through setw filter.
+     cin.get(str,20)
+     cin.get(var.width,terminator);
+     ci.get(str,20,>);
+     last would be null charactor /'0'
+     strlen(str);
+     char str1[25];
+     strcpy(str1,str) //(Destination,source)
+     /*
     
     format specifiers 
     
@@ -98,7 +107,7 @@ int main() {
      
      CONST keyword
      
-     structure diff memory loc for data fields
+     structure diff memory loc for data fields, members are public.
      
      union diff data types one location for data. if you update value it will overwrite. one datatype at one one time. Bigger datatyoe will overwrite.MAX VYTE DATATYPEPLACE.Want to use one field than unio useage. ROM Bios programming. NEsted unions. Diff datatypes treated with one memoery loc. Union variable.
       Java donot have Unions and Structure.
@@ -117,9 +126,10 @@ int main() {
      
      //OOP 
      
-     Class template composes of properties and methods acess modifiers private ,protected, public for properties and methods 
+     Class template composes of properties and methods acess modifiers private ,protected, public for properties and methods. members are private. Nested classes usage when we want to use classese both inside na dmake one isntance. 
      object instance of class
       
+      sizeof() return bytes of object size in memory.
       :: RESOLUTION operator THIS keyword and NEW keyword  (. Dot operator) with Arrow Operator (->) you can point to properties of class and functions   
       
       reference variable 
