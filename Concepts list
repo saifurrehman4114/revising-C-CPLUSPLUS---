@@ -98,10 +98,14 @@ int main() {
      
      CONST keyword
      
-     structure 
+     structure diff memory loc for data fields
      
-     union
+     union diff data types one location for data. if you update value it will overwrite. one datatype at one one time. Bigger datatyoe will overwrite.MAX VYTE DATATYPEPLACE.Want to use one field than unio useage. ROM Bios programming. NEsted unions. Diff datatypes treated with one memoery loc. Union variable.
+      Java donot have Unions and Structure.
      
+     syntax union saif {
+     int al;
+     } ;
      pointers 
      
      pointer type of the address u want to store and * of the pointer sign name of pointer
