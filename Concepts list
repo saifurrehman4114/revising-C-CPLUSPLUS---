@@ -61,6 +61,7 @@ int main() {
     A= 5
     ++A Pre, A++ post 
     
+    break & continue statement
     compound operators
     
     A += 1
