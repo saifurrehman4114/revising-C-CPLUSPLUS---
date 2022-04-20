@@ -127,7 +127,7 @@ int main() {
      //OOP 
      
      Class template composes of properties and methods acess modifiers private ,protected, public for properties and methods. members are private. Nested classes usage when we want to use classese both inside na dmake one isntance. 
-     object instance of class
+     object instance of class. Object have objective characteristics and name object = private data + public functions 
       
       sizeof() return bytes of object size in memory.
       :: RESOLUTION operator THIS keyword and NEW keyword  (. Dot operator) with Arrow Operator (->) you can point to properties of class and functions   
