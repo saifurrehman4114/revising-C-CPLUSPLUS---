@@ -92,7 +92,9 @@ int main() {
      (x>5 ? y =3 : x=5) just one if else multiple if else      
      loops and nested loops 
      
-     for while do while 
+     for 
+     while conditon can be complex with relational and logic operators amd infinite loop. if we use while(i<10);  infinite loop increment an ddecrement in conidiotn  while(++i<=10) if inside condiotion 1 itis true can terminte with decision other than variable. 
+     do while 
      
      functions user defined or built in function  
      -signature / prototype 
