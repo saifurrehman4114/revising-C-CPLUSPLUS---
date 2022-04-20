@@ -70,7 +70,7 @@ int main() {
     A= 5
     ++A Pre, A++ post 
     c = ++a + b++
-    break & continue statement
+    break  get outside of the structure usage loop and swtich  & continue statement loops give control to header the condition of loop
     compound operators
     
     A += 1
@@ -92,16 +92,26 @@ int main() {
      (x>5 ? y =3 : x=5) just one if else multiple if else      
      loops and nested loops 
      
-     for 
+     for  run till a range. inialization in it seprate with comma  i = 0 for(;i<3;i++) stepping condiotn can be inside for body stepping and testing condition for(:++i<3;) infinite loop for(;;) if u want to terminate hen cod ein body the decision for(::) if(getch()=="/r") break;
+     
+     for(int i=0: i<=5; i++); null loop 6 answer it will increase just th ecounter when condition would be false it will go to next line 
      while conditon can be complex with relational and logic operators amd infinite loop. if we use while(i<10);  infinite loop increment an ddecrement in conidiotn  while(++i<=10) if inside condiotion 1 itis true can terminte with decision other than variable. 
      do while 
      
-     functions user defined or built in function  
+     functions does some specific task user defined or built in function lib,
+     
+     (Arthimethic ,data conversion,character clasifciation string manipulation,searching, sorting, I/O, file handling, directory control, bufer ,disk i/O, memory allocation process,
+     graphic date/time,dos and miscellaneous)
      -signature / prototype 
-     -definition 
-     - call function formal and acutual arguments and parameters 
+     main-maindefinition 
+     - call function formal( local var in function scope )and acutual arguments and parameters( data type, sequecne and no) input main->function  output main<-return 
+     -return or nothing void type 
      
+     no input in then use void in protype parameter list
      
+     function type,function name,sequence, data type, no of parameter then compiler exutes function
+     
+     first protype then call then defintion 
      arrays 
      
      - by value 
