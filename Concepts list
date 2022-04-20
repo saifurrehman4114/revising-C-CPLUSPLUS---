@@ -112,14 +112,39 @@ int main() {
      function type,function name,sequence, data type, no of parameter then compiler exutes function
      
      first protype then call then defintion 
-     arrays 
      
+     if no return type in protype it is int  
+     
+     call by variable or call by constant function saif (s,s)
      - by value 
      - by ref
+     arrays 
+     
      
      CONST keyword
      
-     structure diff memory loc for data fields, members are public.
+     structure diff memory loc for data fields, members are public. data field have doff data type coll of hetetrogenous elemrnts 
+     temporary no space allocated untill variable created try to create ot at top of ile or imort from header file. new data type u create. assingn data use . operato=
+     struct saif optional tag name {
+      fied 1; field2;
+      :
+      :
+     };
+     
+     struct {
+      fied 1; field2;
+      :
+      :
+     } saif,test1;
+     
+     intiliation saif={1, "Saif"};
+     
+     diff strucutres can have same name field compiler knows to deal
+     members are store in contiguous locations 
+     
+     you can pass stucture to function as normal variable 
+     
+     saif = test it will tranfer data of test strucutre to saif if both have same data tpe strucutre 
      
      union diff data types one location for data. if you update value it will overwrite. one datatype at one one time. Bigger datatyoe will overwrite.MAX VYTE DATATYPEPLACE.Want to use one field than unio useage. ROM Bios programming. NEsted unions. Diff datatypes treated with one memoery loc. Union variable.
       Java donot have Unions and Structure.
