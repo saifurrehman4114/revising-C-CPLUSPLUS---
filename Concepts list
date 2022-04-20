@@ -146,6 +146,23 @@ int main() {
      
      saif = test it will tranfer data of test strucutre to saif if both have same data tpe strucutre 
      
+     nested struture nested struture is used as a member complex data type orDMBS programs usage.
+     
+     stru unit {
+     
+     int feet;
+     float inches;
+     };
+     
+     strut measure {
+     
+     unit length;
+     unit width;
+     };
+     
+     Measure M1; M1.length.feet = 5, M1.length.inches = 5; M1.width.feet = 5 M1.width.feet = 5  how much nesting that much dots operator 
+     
+     
      union diff data types one location for data. if you update value it will overwrite. one datatype at one one time. Bigger datatyoe will overwrite.MAX VYTE DATATYPEPLACE.Want to use one field than unio useage. ROM Bios programming. NEsted unions. Diff datatypes treated with one memoery loc. Union variable.
       Java donot have Unions and Structure.
      
