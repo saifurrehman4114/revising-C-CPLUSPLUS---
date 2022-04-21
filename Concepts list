@@ -282,10 +282,35 @@ int main() {
      
      Heap free memeory dynamic allocation operator use 
      
-     2 opertors new allocates and delete remove space 
+     
+     2 opertors new allocates and delete remove space which reserved by new
+     
+     delete calls delete function frees the new created heap memory delettes only new operator created memeory or releases that only 
+     otherwise results would be diff 
+     
+     int *pn = new int;
+     
+     delete *pn
      
      compile time variables created are static memory allocation which uses these dynamic are dynamic allocation memory 
      
+     new uses memory as uses variable 
+     
+     datatype *pointername = new datatype
+     first datatype which point that memory other new to reserve that memory bytes
+     
+     int *ptr = new int //2 bytes created in space heap and acces via ptr . when memory will be created or variable new return address to ptr otherwise no return it will be
+     
+     return 0
+     
+     acess just through  pointer as normal can be access just via variable and ptr also 
+     
+     
+     int *pn = new int(1)
+     
+     char *ptc = new char("X")
+     
+     delete pn,ptc
      //OOP 
      
      Class template composes of properties and methods acess modifiers private ,protected, public for properties and methods. members are private. Nested classes usage when we want to use classese both inside na dmake one isntance. 
