@@ -41,7 +41,7 @@ int main() {
     %c character
     %s string 
     %e exponent 
-    
+    %u ADDRESS return specifirer 
   
     
     NULL value in a pointer var
@@ -219,9 +219,72 @@ int main() {
      pointer type of the address u want to store and * of the pointer sign name of pointer
      get address of variable "& operator"  and * to get value of the variable address store in pointer 
      
-     pointers operators *p++ *(p++)
+     datatype *var
      
+     the data type which address pointer wants to store 
+     
+     int a= 10;
+     int *b=&a;
+     
+     int* b and int *b are same *unary operator 
+     
+     *b value at the stored location in the address or pointer 
+     we can intilize the pointer with the same value of data type adress  which it is pointer of or takes address of variable 
+     &i address 
+     *(&i) value at address *value at or indirection  
+     pointers operators (*p)++  diff *(p++) at value 
+     
+     we can intilize pointer with the same data type pointer 
+     
+     int *ptr2 = ptr;
+     
+     
+     pointer return in fucntion 
+     
+     
+     main()
+    {
+    
+         int *p
+     int *f():
+    p= f()
+    }     
+    
+    int *f(){
+   
+   int i=0
+   return (&i);
+   }
+   
+   array of pointers 
+   
+   int i,j=0;
+   int *saif[1];
+   
+   saif[0]= &i saif[1]= &j
+   
+   for (m=0;m<2;m++){
+   cout<<*(saif[m]);
+   }
+     arrays for  pointer print and edit values using pointers,  pass pointers in function parameter list  
+     void pointers which is used to general type of data type data rATHER THAN varialble data type stores address of the variable 
      & reference operator * deference get address and get value   
+     
+     donot want to send actual values difficult or impossible, function return more than 1 valuessend and recice arrays and strings in func,arrays manipulation not whole array
+     diff data strutures making is made through pointers linked list,trees,one DS is takes reference for the other
+     
+     
+     for memory info sending delete func we use  and work on  free  memoery
+     
+     Dynamic allocation
+     
+     Compile Program code,Global data,heap,stack
+     
+     Heap free memeory dynamic allocation operator use 
+     
+     2 opertors new allocates and delete remove space 
+     
+     compile time variables created are static memory allocation which uses these dynamic are dynamic allocation memory 
      
      //OOP 
      
