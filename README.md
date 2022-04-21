@@ -14,4 +14,5 @@ In person or VIrtual Hackthon
 There is a Solution Iw ill find it. Humality. Problem Solve  
 Hard Work Patterns Hands on Implement Stay Healthy Feymen technique Topic explain refelect refine Simply organize Tommorow Taks acheiable Break 1-2 hour nice long break go outside. 
 
-Stack Overflow Blog Website Twitter Meetup Open SOurce
+Stack Overflow Blog Website Twitter Meetup Open Source
+
