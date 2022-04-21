@@ -182,11 +182,45 @@ int main() {
      
      Class template composes of properties and methods acess modifiers private ,protected, public for properties and methods. members are private. Nested classes usage when we want to use classese both inside na dmake one isntance. 
      object instance of class. Object have objective characteristics and name object = private data + public functions 
+      Active and passive channels and communication channel
+      priavte by default data private then fucntions public
       
+      u can call members in three places main,child ,object class inside 
+      
+      levels| within class | from inherit | main
+      
+      private |yes|no|no
+      protected|yes|yes|no
+      public|yes|yes|yes
+      
+      Main program public - protected inherit class -protected  priavted class 
+      
+      Struture prog AND oop data type - Class ADT varible -instance object ,fucntion/rocedure/method members services,function calls/message passing 
       sizeof() return bytes of object size in memory.
-      :: RESOLUTION operator THIS keyword and NEW keyword  (. Dot operator) with Arrow Operator (->) you can point to properties of class and functions   
       
-      reference variable 
+      desructor destroys object when program finishes it calls itself it has no return type  member of class when object finishes name of the class  
+     FREES the memeory  
+      ~SAIF (){
+      
+      cout<<"destroted object";
+      }
+      
+      Constructor calss automatically when an object is madeit is used to make assign values to data of class or intilizae data  
+      no return type
+      classname(parameter list ){
+      
+      }
+      
+      Constructor overloading  just parameter would be different default parameter 
+      default copy constructor copy one construcor values of object  to other object we give  constructor  the  obejct two ways to call default = and operator and parathesis    
+        Test t1(5,0)
+        test t2(t1);
+        test t3 = t1;
+        
+        we can give objects as parameters and return them to from fucntions and call them through third object and you can access there data to 
+        :: RESOLUTION operator THIS keyword and NEW keyword  (. Dot operator access object memebrs ) with Arrow Operator (->) you can point to properties of class and functions with reference type pointer    
+       we can define function outside the classmany object will have one function prgram and memory optimization whe u use loops use in function outside of class in class function comiler does not allow progrma gets comoplex  otherwise in the class u just give definition 
+      reference variable  
       
       static variable and static function 
       
