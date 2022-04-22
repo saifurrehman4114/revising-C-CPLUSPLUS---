@@ -2,6 +2,7 @@
 
 Think learn apply -> (Action) Improve Publish Finish
 
+focus on fundamentals,identify patterns and 80/20 rule to discard videos search,sorting,tress,linkedlist,graphs*BFS,DFS),sliding window,time space,recursion PRACTCE HARDER NOT HARDER
 1. Basics 2 hr coding ,changes and dedication. concept 4-5-10 questions easy,medium,hard see editorials, help
 2. DSA
 3. HACKER RANK,LEET CODE, CODECHEF, CODE FORCES. Interview Bit Prama
