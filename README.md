@@ -6,9 +6,17 @@ focus on fundamentals,identify patterns and 80/20 rule to discard videos search,
 
 1. Basics 2 hr coding ,changes and dedication. concept 4-5-10 questions easy,medium,hard see editorials, help
 2. DSA Geeks for Geeks Notes striver bhayia love by babar aditya verma Graphs DMS OS Gate Smasher and Saubaba Shukla OOP
-3. HACKER RANK,LEET CODE, CODECHEF, CODE FORCES. Interview Bit Prama
-4. WEB OR APPLICATION
-5. OPEN SOURCE OR PROJECTS 
+3.Easy and Medium Questions Working stuck 10-15 solve everything hint discuss solve and code it  then solution come back bookmark 
+brute force worst simople question optimize note problem what type of prob used which type of optimizion similar algorithm 
+every topic which type of problem is solved via ppattern how optimized problem solving and comapers alogs which type of problem 
+
+Hihhest accpetance rate pattern template formula algorithm rince repeat 
+
+20 Q-> Topic Company specofoc oing frequency Revisit review an dsolve ,Pattern template Discuss 30 on easy and medium 40 min 
+3 hrs 6 questions 30 180 months 4 720 questions first leet code  Khunal Compettive programming repo  code chef code force code war 
+4.  HACKER RANK,LEET CODE, CODECHEF, CODE FORCES. Interview Bit Prama
+5. WEB OR APPLICATION
+6. OPEN SOURCE OR PROJECTS 
 
 Terminal Iterm2 or Windows lINUX SUBSYSTEM 
 In person or VIrtual Hackthon 
