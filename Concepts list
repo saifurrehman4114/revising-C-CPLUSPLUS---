@@ -120,6 +120,31 @@ int main() {
      - by ref
      
      
+     Function Overloading one function for more than one task diff data type argumenets and syntax u call define with sam ename judge from paramter list not from return type 
+     
+     no,datatypes and order
+     
+     A Match 
+     type are same Actual == foraml arguments
+     
+     No Match
+     
+     diff types PARAmeters 
+     Ambigous Match same but more than one 
+     
+     A match through Promotion or Standard conversion 
+     short, char, unsigned char -> int
+     
+     flaot-> double 
+     
+     enumerated or user define -> int
+     
+     Standard match numeric of actual will match to protype unsigned can be 
+     enumerated match numeric 
+     any type of voidpointer match with pointer 
+     zero value pointer type numeric pointer match 
+     
+     
      Data Str Linear connection and sequence and non linear no connection and no sequecne 
      
      linear connection continuius and others are pointer like links 
