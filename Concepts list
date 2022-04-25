@@ -144,8 +144,50 @@ int main() {
      any type of voidpointer match with pointer 
      zero value pointer type numeric pointer match 
      
+     default arguments reduces overloading and 
      
+     void saif(char='s",int = 35);
+     is equal 
+     void saif(char ij ='s",int j= 35);
      Data Str Linear connection and sequence and non linear no connection and no sequecne 
+     
+     inline function reduces switching and increases speed does not have prototype and declare it before main definiton 
+     and increases  size of file
+     
+     scope resoulution :: can use varable in program make a gloabl var and use it everywhere decalre it before main local and global have same name then prority would be given to global using resolutuonoperator 
+     
+     
+     reference pointsto he reference it is 
+      always intilize the ref var with a var it will get to know which reference it is it will effect both variables 
+     datatype &var_name = var;
+     usage with fucntion to reduce memory actual and formal argutments
+      para ref address var functio sends or gets reference arguemnts 2nd nname and we can change value sof main inside hte function working on the same location giving anoth er tag to a memory location or variabke 
+      
+      main()
+      
+      {
+      int i = 5;
+      user (i)
+      }
+      
+      user(int &j){
+      j++
+      }
+      
+      remeber to do it in protype alos 
+      call by value var creates another copy of vars 
+      call by ref & var is passed 
+     or var addres is passed by pointer 
+     
+     less memory return more than one valur from fucntion 
+     Process control block 
+     
+     call back and we can any function from inside of another functun but defintion part should be outside 
+     
+     recursion approch a function call himself
+     
+     user func we writes  and library func comes with compiler which writes compiler they are used very much they are collectio of that functions which are write for the ease of User  
+     
      
      linear connection continuius and others are pointer like links 
      
@@ -382,7 +424,7 @@ int main() {
       
       static variable and static function 
       
-     inline function virtual, pure virtual and friend function
+     mmber funtion,inline function, virtual, pure virtual and friend function
      
      template STL
      encapsulation Access modifiers
