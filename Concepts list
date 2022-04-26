@@ -490,7 +490,50 @@ int main() {
      
      polymorphism many forms and function which implements it is called polymorphic function
      
-     Operator overloading 
+     Operator overloading
+     
+     existing operators giving new meaning redefine one more time define in user define data type they are funtion insead of name we use symboles demote and funtion definiton is same 
+     
+     return  value 
+     
+     unary and binary operators 
+     
+     nameless temporary objects 
+     
+     ++count 
+     return counter(count); //without name object created write easily value of count will be transfer 
+     
+     operator is a keyword 
+     syntax 
+     
+     prefix operator for postfix just in paramter list give int 
+     void operator++ (){
+     }
+     
+     post fix 
+     void operator++ (int){
+     }
+     return counter(count++);
+     
+     binary overloading dis3.add(d1,d2); values after addition member by member 
+     
+     dis3 = d1 + d2; 2 user define objects  + overloaded binary operator 
+     
+     distance operator + (distance); //protype 
+     
+     distance distance :: operator  + (distance d2){} //outside declaration of function 
+     
+     dis3 = dis1 + dis2;
+     object dist1 distance distance :: operator  + (distance d2){} //outside declaration of function 
+     
+     not overloaded operators : colon , .dot , :: resolution , ? question mark 
+     
+     unary and binary both versions &,+ can overload on both versions
+     operator overloaded built in preference  
+     
+     previous built in operators cannot be redefine 
+     
+     your define operators user type objects can be used cannot chg intrinsic operator meaning
      overloading function (name should be same,datatypes,sequece differs ) and overiding functions 
      Abstract Class and Interface
      exception Handling 
