@@ -154,6 +154,8 @@ int main() {
      inline function reduces switching and increases speed does not have prototype and declare it before main definiton 
      and increases  size of file
      
+     excution time and overhead reduces exe file big prgram code is small otherwise great memory compiler decides copies or prorities over head inline function should be defined before 
+     
      scope resoulution :: can use varable in program make a gloabl var and use it everywhere decalre it before main local and global have same name then prority would be given to global using resolutuonoperator 
      
      
@@ -424,8 +426,41 @@ int main() {
       
       static variable and static function 
       
-     mmber funtion,inline function, virtual, pure virtual and friend function
+     member funtion,inline function, virtual, pure virtual and friend function
      
+     virtuail function 
+     virtual not physically but affects others 
+     
+     virtual function with diff version can be used in program and according to  program requirements appears in  function diff appearances 
+     
+     keyword virtual before function we can use it with diff definitions and versions 
+     
+     pure virtual fucntion base function does not have any defintion when base version does not have any work to do 
+     
+     if we write zero with out defining virtual function it is pure function 
+     vitual void show()=0
+     base* list[2];
+     
+     dervie d1,d2;
+     list[0] = &d1;
+     list[1] = &d2;
+     list[0]->show();
+     list[1]->show();
+     
+     usage designing view near
+     
+     correct and best implementation of polymorphism is because of vitual funtion 
+     
+     shap class inherited classes rectanle cirle line classes  all have same draw func with virtual func u can call three of them call them  using one syntax
+     
+     shape *arr[50];
+     
+     for(i=0;i<50;i++)
+     arr[i]->draw()
+     
+     which address it will contain it will call that function of draw will be called 
+     
+     THIS pointer member data of class is access it is a built in pointer points to active object which tells which object is calling invoke functions  
      template STL
      encapsulation Access modifiers
      abstraction getter/setter
@@ -433,7 +468,25 @@ int main() {
      - Multiple  A class which derives from multiple base classes A,B -> c   
      -multi-level :-) class who is base class of the child also has a base class e.g A->B->C 
      
-     (Early stage) Static and (late stage) Dynamic Binding
+     binding 
+     source compilatio to exe functions and user underatanable  commands to machine code  
+     (Early stage) Static normal excution in compilation time and (late stage) Dynamic Binding compiler unable to take decision virtual functions msotly 
+     
+     vitual base class base class two inherits copies members oen more class dervies inherited classes does no which base or parent class function to call compiler is confuse wh  
+     vitual base classes 
+     
+     class dervied class : virtual public base
+     
+     
+     frd function 
+     not a member of class private and protected memebers access same as function two diff classes brige work two objects data members values add good and beauiful feature both classes annouces one function frd frd of both classes 
+     
+     it has scope definition declaration
+     
+     int friendsum(A a, B b ){
+     
+     return (a.data + b.data)}
+     friend int friendsum(A,B);
      
      polymorphism many forms and function which implements it is called polymorphic function
      
