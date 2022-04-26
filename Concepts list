@@ -444,8 +444,59 @@ int main() {
      
      try catch finally block and throw error 
      
+     Storage Classes 
+     life time  visibility / scope , and default values by compiler whne var is created   of Variables
      
-     life time and visibility of Variables
+     Static, External/Global and  Automatic/local
+      
+      Automatic /local 
+      fucntion local variable crated i fucntion use in it only visible 
+      
+      lifetime function created untill it is function is ended created by fucntion ended in memory default value is garbage and complier does not assign anything 
+      
+      auto int i
+      
+      storage classes are auto u write it or not it is auto as normal var are auto 
+      
+      Global/External 
+      
+      visibility acces anywher from progrma and use it. life time until program is running and lifetime assign efault value zero by compiler
+      
+      extern int i;
+      
+      static auto(visiblity) + external (lifetime) + default value zero 
+      
+      static int i;
+      registers and volatile storage classes var in registers 
+      
+      Nearest scope var or funcion call locally then gloablly one name then  want to use both then resolution operator otherwsie local fail then global or far scope jump 
+      
+      when decalre outside function from class 
+      
+      return type class name ::function name(parameter)
+      
+      u can return and send objects in functions important concept
+      
+      static class data 
+      
+      decalre data type inside class whole class one data all objects would have one var or accessing one var other than every object have seprate that data or var  common data 
+     
+     class wise operation usage of static  class have same var  and every objects have common    or all objects are sharing same var not associated with one object 
+     
+     
+     int test::count//static defintion 
+     
+     static funtion why declare function to use static data of very object seprately or use it with specific object function define function for that to call static data 
+     
+     whole class common static data manipulate with static function without any direct object 
+     
+     use with resolution operator 
+     
+     static void show(){}
+     test::show total
+     
+     
+     
     */
     
     
