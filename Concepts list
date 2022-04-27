@@ -540,7 +540,21 @@ int main() {
      
      Exception Handling 
      
+     errors which occur during runtime 
      
+     reasons:
+    less memory,file not opened array avove bound, assign var a value or object which is implossible 
+    
+    as these errors occur then program have to make decision how to control during rogram 
+    
+    error msg on the screen,display box in GUI, take input from better data form user or exit in a good way or gracefully or terminate progrma 
+    
+    C++ dealing of after function call we see it's return value did it task properly or not 
+    
+    usage of setjmp or longjmp when donot want to terminate program after seeing error msg it starts the next  process  
+    
+     
+     try catch finally block and throw error
      
      encapsulation Access modifiers
      abstraction getter/setter
@@ -568,8 +582,24 @@ int main() {
      return (a.data + b.data)}
      friend int friendsum(A,B);
      
-     polymorphism many forms and function which implements it is called polymorphic function
+     polymorphism many forms diff versions or varities 
+     poly has it on diff forms 
      
+     with this we send same msg to diff objects and every object responds according to its; on approach  
+     c++ we do this with Virtual func and dynamic finding 
+     
+     poly real work or taste runtime object creation and destroys it
+     
+     Encapsulation,inheritance and Poly is related or connected to each other 
+     
+     first we do encapsulation then inheritance then poly and we utilized fully capablity with poly 
+     
+     derived class objects we treat them as base class objects poly supports this principle 
+     
+     with utilization of poly derived class objects we send them to base class functions  
+     function which can recieves these kind of messages  it is called polymorphic function
+     
+     OOP real work 
      Operator overloading
      
      onstream operator look that 
@@ -619,8 +649,7 @@ int main() {
      overloading function (name should be same,datatypes,sequece differs ) and overiding functions 
      Abstract Class and Interface
      exception Handling 
-     
-     try catch finally block and throw error 
+      
      
      Storage Classes 
      life time  visibility / scope , and default values by compiler whne var is created   of Variables
