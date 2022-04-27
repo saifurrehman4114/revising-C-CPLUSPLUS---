@@ -461,7 +461,87 @@ int main() {
      which address it will contain it will call that function of draw will be called 
      
      THIS pointer member data of class is access it is a built in pointer points to active object which tells which object is calling invoke functions  
+     
      template STL
+     Template With functions and class u can at one time  handle diff data types 
+     
+     Two Types:
+     Class template and Function template 
+     
+     funtion teplate for int float char overload more times function body we write,more space by program mistake then correct function body 
+     
+     one func operate with diff datatypes func template 
+     
+     syntax typeor mytype or aythingcan be  function written compiler will not do binding of template  and no writing of   definition untill template is called because compiler will not know which type  
+     which type to work with func It's late binding like virtual func
+     
+     function template overide one condition when we want func template works with every type and  does one task except one type we wrtie for thqat excetion one func it will be overiding 
+     teplate func on that condition 
+     
+     void swap (double a, double b){
+     
+     //somecode 
+     
+     }
+     
+     Template <class T>
+    just for one type argument that function call parameter list would be of same data type  
+     T argument of template 
+     T min( T a, T b){
+     return (a<b)?a:b;
+     }
+     
+     Multiple argument types 
+     template function is of diff argument types u can give with class keyword multiple or more than one arguments 
+     
+     multiple arguments in which fnction call of diff type of data type
+     Template <class T , Class S, Class Z>
+     
+     T argument of template 
+     T min( T a, S b, Z c){
+     cout<<a<<b<<c;
+     }
+     
+     void main(){
+     int i = 1, float j = 3.14, char ="A";
+     min(i,j,ch);
+     
+    
+     }
+     
+     
+     Class Template usage one class with diff types vari it deals for diff types we donot make diff classes 
+     
+     template <class T>
+     
+     class stack{
+     
+     private :
+     
+     T stk[MAX];
+     
+     }
+     
+     main(){
+     
+     stack <int> S1;
+     stack <float> S2;
+     
+     //u can make a custom type like complex class then make it's obejcts 
+     
+     Complex C1(1,1),C2(1,1);
+     
+     stack <complex> S3;
+     
+     S3.push(C1);
+     S3.push(C2);
+     }
+     
+     
+     Exception Handling 
+     
+     
+     
      encapsulation Access modifiers
      abstraction getter/setter
      inhertance 
@@ -491,6 +571,8 @@ int main() {
      polymorphism many forms and function which implements it is called polymorphic function
      
      Operator overloading
+     
+     onstream operator look that 
      
      existing operators giving new meaning redefine one more time define in user define data type they are funtion insead of name we use symboles demote and funtion definiton is same 
      
