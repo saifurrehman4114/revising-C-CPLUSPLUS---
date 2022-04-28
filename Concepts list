@@ -585,6 +585,8 @@ int main() {
      public specifier derived class protected(both would be private for the class) and public members in there class behaves that same behave the inherit public base class protect and base members
      make class hierarchy 
      
+     https://media.geeksforgeeks.org/wp-content/cdn-uploads/table-class.png
+     
      protected 
      
      base class protected derived base class public and protected in derived it will be private and in derived protected mmebers  
