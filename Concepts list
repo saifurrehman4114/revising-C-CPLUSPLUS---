@@ -572,10 +572,24 @@ int main() {
     
     derived class object created it will create first derived constructor then base class constructor 
      add functionality i existing libraries and adding functionality is easy 
-     - Multiple  A class which derives from multiple base classes A,B -> c   
-     - multiple lvl class who is base class of the child also has a base class e.g A->B->C 
+     - Multiple  A class which derives from multiple base classes A,B -> c   make program complex c# and java does not support that 
+     - multiple lvl class who is base class of the child also has a base class e.g A->B->C this is very much safe approch  
      
+     if we want to use some function of private inheritance then we declare that function in drived public functio  
+     members of protected in base becomes public in derive class 
+     public inheritance or private or public by default inheritance is private 
      
+     private specifier public and protected members in base would be private members in derived class it's object cannot access public and protected memebrs of base use or call
+     if we do further inherit derived class in derived 2 we cannot access protect and public of base  in 2 derived  
+     
+     public specifier derived class protected(both would be private for the class) and public members in there class behaves that same behave the inherit public base class protect and base members
+     make class hierarchy 
+     
+     protected 
+     
+     base class protected derived base class public and protected in derived it will be private and in derived protected 
+     
+     inheirt cannot inherit destructor , assignment operator operator = like constructor  and destructors 
      binding 
      source compilatio to exe functions and user underatanable  commands to machine code  
      (Early stage) Static normal excution in compilation time and (late stage) Dynamic Binding compiler unable to take decision virtual functions msotly 
