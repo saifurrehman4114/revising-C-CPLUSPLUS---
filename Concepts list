@@ -587,7 +587,7 @@ int main() {
      
      protected 
      
-     base class protected derived base class public and protected in derived it will be private and in derived protected 
+     base class protected derived base class public and protected in derived it will be private and in derived protected mmebers  
      
      inheirt cannot inherit destructor , assignment operator operator = like constructor  and destructors 
      binding 
