@@ -558,9 +558,23 @@ int main() {
      
      encapsulation Access modifiers
      abstraction getter/setter
-     inhertance 
+     inhertance to make new classes from exisiting 
+     base class and derived class base class donot get effected add functionality we make a child class 
+     
+     child class will get priority in case when base and child have same funct name and parameter list then child class object func call will get priority nearet scope 
+    protected members are private in there class in base class untill derived 
+    
+    base and derived make objects then both are independednt and have no relationship
+    
+    protcted for the class in it and other program is private and drived it is public 
+    
+    drived class sugests base class is public or derive 
+    
+    derived class object created it will create first derived constructor then base class constructor 
+     add functionality i existing libraries and adding functionality is easy 
      - Multiple  A class which derives from multiple base classes A,B -> c   
-     -multi-level :-) class who is base class of the child also has a base class e.g A->B->C 
+     - multiple lvl class who is base class of the child also has a base class e.g A->B->C 
+     
      
      binding 
      source compilatio to exe functions and user underatanable  commands to machine code  
