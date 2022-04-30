@@ -806,3 +806,12 @@ istream , ostream,functions
 
 
 error states bits gives us input and output  stream diff situations news attributes and functions also
+
+
+use fstream use streams with file formatted file I/O store in disk in characters format no errors occur use mostly for character strings simple way an
+
+ifstream read and ofstream write objects wil be made 
+
+string read and write using them 
+
+character i/o get and put ostream and istream functions oe character input and output  
