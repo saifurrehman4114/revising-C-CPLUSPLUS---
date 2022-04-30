@@ -783,6 +783,8 @@ EOF end of file tells compiler end of file
 
 Stream Classes 
 
+https://www.cplusplus.com/reference/iolibrary/
+
 file and program interface
 
 disk file to program input stream (read) and program to file output stream (write)
