@@ -756,6 +756,20 @@ text mode number string  data and binary
 
 fopen
 
+read mode r file should be made 
+
+w write mode file is exists overwrite otherwise file shoud be created 
+
+a append write if file exists otherwise file be created
+
+rt read write file exists
+
+wt w+ read write data in file overwrite  
+
+at a+ read and append file not exits will be created
+
+ 
+
 we store file info in file structure and  make a pointer in it and which points to file 
 
 putc writes in  file
@@ -765,3 +779,30 @@ putc(ch,fptr) //ch variable where data is stored and written in file pointer
 fclose closes the file and write the data from buffer to file 
 
 EOF end of file tells compiler end of file
+
+
+Stream Classes 
+
+file and program interface
+
+disk file to program input stream (read) and program to file output stream (write)
+
+file and program input stream link and program to file output stream 
+<< Insertion  >> extraction
+
+C++ i/o system uses fstream,ifstream,ofstrean usage from <iostream.h> header file
+
+disk file->processing program read from disk and data input for processing input stream
+
+data after processing output stream and write data to disk file 
+
+ios class all u need for streams in c++ formatting flags,error status flags and file operations 
+
+foramtting flgs enums and definitons collection works like swtich on and off input and output format can be set set through unsetf and setf functions 
+
+manipulator stream gives formatting guidance to it argument and non argument manipulators we can use some manipulators with ios functions
+
+istream , ostream,functions
+
+
+error states bits gives us input and output  stream diff situations news attributes and functions also
