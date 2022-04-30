@@ -815,3 +815,12 @@ ifstream read and ofstream write objects wil be made
 string read and write using them 
 
 character i/o get and put ostream and istream functions oe character input and output  
+
+
+Binary I/O data store in real face in memeory no fomartting for character 32 int to 2 bytes 
+
+write ofstream emember and read ifstream emember usdatat into bytes trade no formatting look parameters we tell data buffer and size we tell 
+
+object I/O
+
+object WRITE in binary mode integerity of data is there and also for read 
