@@ -734,8 +734,34 @@ int main() {
      
      
      
-    */
-    
-    
-    return 0;
-}
+File Handling
+
+Standard Inut Output
+Record | Formatted | String | Character
+fread    fscanf      fgets   getx
+fwrite  fprintf     fputs   putc
+
+String I/O gets and puts func
+
+formatted I/O mixture of data can be read and write 
+
+record block of data of same type and size like array block of data
+
+
+System Input/Output
+
+Read and Write
+
+text mode number string  data and binary 
+
+fopen
+
+we store file info in file structure and  make a pointer in it and which points to file 
+
+putc writes in  file
+
+putc(ch,fptr) //ch variable where data is stored and written in file pointer
+
+fclose closes the file and write the data from buffer to file 
+
+EOF end of file tells compiler end of file
