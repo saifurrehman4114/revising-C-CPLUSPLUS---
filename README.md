@@ -1,6 +1,13 @@
 # revising-C-CPLUSPLUS---
+  
+ 
 
+DSA Topics in order 
+Array -> String -> LinkedList -> Stack & Queue -> Recursion -> DP -> Trees -> Graph -> Heap -> Trie
 
+Algorithms - Searching, Sorting, Hashing(Hash Tables), Greedy, Divide and Conquer
+
+Other Concepts - Time Complexity Analysis, Backtracking, Number Theory 
 
 Inteview
 HACKER RANK,LEET CODE, Interview Bit Prama
