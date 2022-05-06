@@ -1,11 +1,6 @@
-// Online C compiler to run C program online
-#include <stdio.h>
-
-int main() {
-    // Write C code here
-    //Integer Data type
+     //Integer Data type
     int saif_8 = 8; //2 bytes
-    short saif_8 = 8;
+    short saif_8 = 8; //2bytes
     
     //declation 
     int a,b,c ;
@@ -22,13 +17,15 @@ int main() {
      
      boolean true false 
      
+     //String
      string uses array char str[20];
      char str[] = "saif";
      cin>>setw(20)>>str; //will go through setw filter.
      cin.get(str,20)
      cin.get(var.width,terminator);
-     ci.get(str,20,>);
+     cin.get(str,20,>);
      last would be null charactor /'0'
+     
      strlen(str);
      char str1[25];
      strcpy(str1,str) //(Destination,source)
@@ -36,7 +33,7 @@ int main() {
     
     format specifiers 
     
-    % d decimal 
+    %d decimal 
     %f float 
     %c character
     %s string 
@@ -45,6 +42,7 @@ int main() {
   
     
     NULL value in a pointer var
+    
     //escape sequences 
     // /n next line
     // /r return for enter button  /a alert beep from compiler /t Tab col or 7 char spaces /b Backspaceone char before
@@ -52,7 +50,6 @@ int main() {
     usage 
     unary- one operand  binary 2 operand  tertiary operators 3 operand ? conditional operator 
     
-    work 
     
     // logical operator  combine different experssions 
     AND && OR || NOT ! XOR odd 1's EXNOR even zeros or 1's SHORT Circuiting
