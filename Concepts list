@@ -36,6 +36,8 @@
     %d decimal 
     %f float 
     %c character
+    %ld long 
+    %lf double
     %s string 
     %e exponent 
     %u ADDRESS return specifirer 
@@ -80,13 +82,21 @@
     
     decisions 
     
-     if else elseif switch( diif cases check diff outpt input can be int or char case matches case value cahr or int if no break all cases would be excuted or untill break come sin and default value like else  ) decision tree read from right left  
+     if else elseif switch( diif cases check diff outpt input can be int or char case matches case value cahr or int if no break all cases would be excuted or untill break comes
+     in and default value like else  ) decision 
+     
+     tree read from right left  
+     
      zero false +veor -ve would be true
      
      Nested If 
      
      conditional operator if (x>5) y=3 else x=5
-     (x>5 ? y =3 : x=5) just one if else multiple if else      
+     (x>5 ? y =3 : x=5) just one if else 
+     
+     multiple if else      
+     
+     
      loops and nested loops 
      
      for  run till a range. inialization in it seprate with comma  i = 0 for(;i<3;i++) stepping condiotn can be inside for body stepping and testing condition for(:++i<3;) infinite loop for(;;) if u want to terminate hen cod ein body the decision for(::) if(getch()=="/r") break;
