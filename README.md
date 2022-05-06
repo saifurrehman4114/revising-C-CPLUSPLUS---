@@ -4,37 +4,50 @@
 
 Stradegy 
 
-https://www.notion.so/de7d8005cd3749b2a1c5f995b4a92bba?v=00b004e1ba144d84a7f207cd30d2fa0d
-
 DSA Topic 5 Questions
 
-100-200 Questions Leet code Topic  Sort Solution Top easy medium and Hard add to the list 
-
-Back to back 5 questions 
+Random 5 Questions from Todo list  
+https://www.notion.so/de7d8005cd3749b2a1c5f995b4a92bba?v=00b004e1ba144d84a7f207cd30d2fa0d
 
 Scoring system 1-5 Final out 
 
 Did u need hint?
 Did u finish within 30 min
-was optiminal ?
+Solution was optiminal ?
 were there any bugs ?
 
 Average of all 
 
+time score and Algorithm
+
+Pick 5 random question Doing Give score rubric close to 5 bottm of repeat list 1 top list middle insert repeat list 
+
+
+4 problem pick top from the list repeat one question above mehod same process same day   
+
+
+problems struggle at the top least bottom   
+
+
+100-200 Questions Leet code Topic  Sort Solution Top easy medium and Hard add to the list 
+
+
 40 Easy 40 Medium 20 Hard Questions 
 
-100 do list Pick 5 random question Doing Give score rubric close to 5 bottm of repeat list 1 top list middle insert repeat list 
-
-problems struggle at the top least bottom 
-
-4 problem pick top from the list repeat above mehod same process same day   
+100 do list 
 
 
-Certain combition are problemic than other note of problematic of one filtering on those on leet code adding 50-more questions specfifc to those catergize 
-repeat to dolist that questiosns reset scores repeat process for round 1 round2
 
+
+Common Pattern reconize problem solving pattern and review  problems repeat list Assign techniques repeated 
+
+repeat list then low score certain combinations are weak areas of u note then round 2  filtering on those on leet code adding 50-more questions specfifc to those catergize
+
+repeat to dolist that questiosns reset scores repeat process for round 1 same for round2 faster or 3rd role 
  
-Company Leet code companies 3 problem consistent do eveyday  
+
+
+
 
 
 DSA Topics in order 
@@ -46,6 +59,8 @@ Other Concepts - Time Complexity Analysis, Backtracking, Number Theory
 
 Inteview
 HACKER RANK,LEET CODE, Interview Bit Prama
+
+Company Leet code companies 3 problem consistent do eveyday  
 
 
 CP platforms 
