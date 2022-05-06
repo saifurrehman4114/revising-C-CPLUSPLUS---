@@ -4,9 +4,11 @@
 
 Stradegy 
 
-DSA Topic 2 - 4 Questions
+https://www.notion.so/de7d8005cd3749b2a1c5f995b4a92bba?v=00b004e1ba144d84a7f207cd30d2fa0d
 
-100-200 Questions Leet code Topic  Sort Sol Top easy medium and Hard add to the list 
+DSA Topic 5 Questions
+
+100-200 Questions Leet code Topic  Sort Solution Top easy medium and Hard add to the list 
 
 Back to back 5 questions 
 
@@ -27,19 +29,12 @@ problems struggle at the top least bottom
 
 4 problem pick top from the list repeat above mehod same process same day   
 
-At any time process repeated an dcofident on some probelms easily process solve third list done completly done Todo list  empty solve prblems repeat or done list 
 
-  
 Certain combition are problemic than other note of problematic of one filtering on those on leet code adding 50-more questions specfifc to those catergize 
 repeat to dolist that questiosns reset scores repeat process for round 1 round2
 
  
 Company Leet code companies 3 problem consistent do eveyday  
-
-https://youtu.be/7UlslIXHNsw?list=PLJBO5eOxvWcAytirt2nBWvFyZogOFm-wA (18:13)
-
-https://www.notion.so/de7d8005cd3749b2a1c5f995b4a92bba?v=00b004e1ba144d84a7f207cd30d2fa0d
-
 
 
 DSA Topics in order 
