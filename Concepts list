@@ -141,7 +141,7 @@
      
      
      Function Overloading 
-     one function for more than one task diff data type argumenets and syntax u call define with sam ename judge from paramter list not from return type 
+     one function for more than one task diff data type argumenets & syntax u call define with same name judge from paramter list not from return type 
      
      no,datatypes and order
      
@@ -149,8 +149,8 @@
      type are same Actual == foraml arguments
      
      No Match
-     
-     diff types PARAmeters 
+     diff types paramters 
+      
      Ambigous Match same but more than one 
      
      A match through Promotion or Standard conversion 
@@ -162,6 +162,7 @@
      
      Standard match numeric of actual will match to protype unsigned can be 
      enumerated match numeric 
+     
      any type of voidpointer match with pointer 
      zero value pointer type numeric pointer match 
      
@@ -170,17 +171,21 @@
      void saif(char='s",int = 35);
      is equal 
      void saif(char ij ='s",int j= 35);
-     Data Str Linear connection and sequence and non linear no connection and no sequecne 
+     
      
      inline function reduces switching and increases speed does not have prototype and declare it before main definiton 
      and increases  size of file
      
-     excution time and overhead reduces exe file big prgram code is small otherwise great memory compiler decides copies or prorities over head inline function should be defined before 
-     
-     scope resoulution :: can use varable in program make a gloabl var and use it everywhere decalre it before main local and global have same name then prority would be given to global using resolutuonoperator 
+     inline function should be defined before 
      
      
-     reference pointsto he reference it is 
+     
+     scope resoulution :: can use varable in program make a gloabl var and use it everywhere decalre it before 
+     main local and global have same name then prority would be given to global using resolution operator 
+     
+     
+      start from here 
+     reference points to he reference it is 
       always intilize the ref var with a var it will get to know which reference it is it will effect both variables 
      datatype &var_name = var;
      usage with fucntion to reduce memory actual and formal argutments
