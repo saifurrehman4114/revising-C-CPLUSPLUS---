@@ -501,11 +501,18 @@
      
      one func operate with diff datatypes func template 
      
-     syntax typeor mytype or aythingcan be  function written compiler will not do binding of template  and no writing of   definition untill template is called because compiler will not know which type  
+     syntax type or mytype or anything can be  function written compiler will not do binding of template  and 
+     
+     no writing of  definition untill template is called because compiler will not know which type  
+     
      which type to work with func It's late binding like virtual func
      
-     function template overide one condition when we want func template works with every type and  does one task except one type we wrtie for thqat excetion one func it will be overiding 
-     teplate func on that condition 
+     
+     function template overide one condition when we want func template works with every type and 
+     
+     does one task except one type we wrtie for that execution one func it will be overiding 
+     
+     template func on that condition 
      
      void swap (double a, double b){
      
@@ -524,6 +531,7 @@
      template function is of diff argument types u can give with class keyword multiple or more than one arguments 
      
      multiple arguments in which fnction call of diff type of data type
+     
      Template <class T , Class S, Class Z>
      
      T argument of template 
@@ -539,7 +547,9 @@
      }
      
      
-     Class Template usage one class with diff types vari it deals for diff types we donot make diff classes 
+     Class Template usage one class with diff types variables it deals for diff types
+     
+     we donot make diff classes 
      
      template <class T>
      
@@ -565,6 +575,7 @@
      S3.push(C1);
      S3.push(C2);
      }
+     
      
      
      Exception Handling 
