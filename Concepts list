@@ -446,13 +446,16 @@
         test t3 = t1;
         
         we can give objects as parameters and return them to from fucntions and call them through third object and you can access there data to 
+        
         :: RESOLUTION operator THIS keyword and NEW keyword  (. Dot operator access object memebrs ) with Arrow Operator (->) you can point to properties of class and functions with reference type pointer    
-       we can define function outside the classmany object will have one function prgram and memory optimization whe u use loops use in function outside of class in class function comiler does not allow progrma gets comoplex  otherwise in the class u just give definition 
-      reference variable  
+
+     we can define function outside the class many object will have one function prgram and memory optimization when u use loops use in function outside of class in
+     class function comiler does not allow progrma gets comoplex  otherwise in the class u just give definition 
       
-      static variable and static function 
       
-     member funtion,inline function, virtual, pure virtual and friend function
+      
+     reference variable  
+      member funtion,inline function, virtual, pure virtual and friend function
      
      virtuail function 
      virtual not physically but affects others 
