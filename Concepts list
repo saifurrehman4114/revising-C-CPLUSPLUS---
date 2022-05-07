@@ -861,7 +861,11 @@ character i/o get and put ostream and istream functions oe character input and o
 
 Binary I/O data store in real face in memeory no fomartting for character 32 int to 2 bytes 
 
-write ofstream emember and read ifstream emember usdatat into bytes trade no formatting look parameters we tell data buffer and size we tell 
+write ofstream memeber and read ifstream memeber use data into bytes 
+
+they donot no look for  formatting 
+
+we tell in parameters about data buffer and size  
 
 object I/O
 
